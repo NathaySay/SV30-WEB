@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.0",
+    "nuxt": "^4.3.1",
+    "tailwindcss": "^4.2.0"
+  },
+  "name": "sv30-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathaySay/SV30-WEB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NathaySay/SV30-WEB/issues"
+  },
+  "homepage": "https://github.com/NathaySay/SV30-WEB#readme"
+}
